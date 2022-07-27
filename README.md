@@ -1,1 +1,1 @@
-# multiprocessamento
+Olá, essa é uma demonstração de como a CPU pode executar várias tarefas ao mesmo tempo, onde cada uma delas estará usando o seu próprio processador, feito com o módulo de multiprocessamento, que inclui uma API simples e intuitiva para dividir o trabalho entre vários processos na Linguagem Python.
